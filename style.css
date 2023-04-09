@@ -1,6 +1,12 @@
+body{
+    margin: 25px 25px 50px 25px;
+    background-color: #edd8c8;
+}
+
 h1{
     color: #4C2C2E;
     text-align: center;
+    font-family: Helvetica, serif, Arial;
 }
 
 button{
