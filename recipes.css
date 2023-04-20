@@ -1,5 +1,6 @@
-body{
-    margin: 25px 25px 50px 25px;
+*{
+    box-sizing: border-box;
+    margin: 10px;
     background-color: #edd8c8;
 }
 
@@ -7,10 +8,13 @@ h1{
     color: #4C2C2E;
     text-align: center;
     font-family: Helvetica, serif, Arial;
+    font-size: 40px;
 }
 
 button{
+    display: block;
     background-color: #E8B287;
+    padding: 10px;
 }
 
 p,
@@ -27,3 +31,7 @@ h2{
     color: #A888A0;
 }
 
+a{
+    text-decoration: none;
+    
+}

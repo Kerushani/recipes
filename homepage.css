@@ -1,0 +1,36 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+a{
+    text-decoration: none;
+    padding: 20px;
+    color: rgb(255, 238, 219);
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.recipe-links{
+    list-style-type: none;
+    display: flex;
+    padding: 10px;
+}
+
+.introduction{
+    display: flex;
+    flex-direction: column;
+}
+
+.top-half{
+background-color: rgb(10, 29, 55);
+margin-bottom: 0px;
+color: rgb(255, 238, 219);
+}
+
+.logo{
+    padding: 8px;
+}
